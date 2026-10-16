@@ -1,13 +1,13 @@
 {
-    "version": "0.1.18",
+    "version": "0.1.19",
     "description": "Loads a Chanjet 好会计 backup into MySQL and answers questions about the books",
     "homepage": "https://github.com/sunfmin/hkj",
     "license": "Proprietary",
     "depends": "curl",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sunfmin/homebrew-tap/releases/download/hkj-v0.1.18/hkj-0.1.18-windows-x86_64.zip",
-            "hash": "749955a5862c1ee69301d749aefe336f7f2fb4cc0fc67655eebf384e273ca8b2"
+            "url": "https://github.com/sunfmin/homebrew-tap/releases/download/hkj-v0.1.19/hkj-0.1.19-windows-x86_64.zip",
+            "hash": "b52f617971be0c0f4c68b480dd21f84b87fbc14764ba44df8a61c6675938ae91"
         }
     },
     "bin": "hkj.exe",
