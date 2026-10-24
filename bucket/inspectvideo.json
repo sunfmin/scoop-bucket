@@ -1,5 +1,5 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "description": "Turns an online video into text a model can fully understand",
     "homepage": "https://github.com/sunfmin/inspectvideo",
     "license": "Proprietary",
@@ -10,8 +10,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sunfmin/homebrew-tap/releases/download/inspectvideo-v0.2.1/inspectvideo-0.2.1-windows-x86_64.zip",
-            "hash": "132adb302cf02e69ccfc02706b72bb2210b71117d0d0a20b1c2920ef11be496e"
+            "url": "https://github.com/sunfmin/homebrew-tap/releases/download/inspectvideo-v0.2.2/inspectvideo-0.2.2-windows-x86_64.zip",
+            "hash": "695063225e87860905753735871d20af9daec55c31fbe0a3c62f7466f8799933"
         }
     },
     "bin": "inspectvideo.exe",
