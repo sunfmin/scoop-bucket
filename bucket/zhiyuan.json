@@ -1,0 +1,15 @@
+{
+  "architecture": {
+    "64bit": {
+      "hash": "551644d4c7fe54b66a7f6f49148396e584e43b1d6e4a55adc3424a5e6dc2c964",
+      "url": "https://github.com/sunfmin/zhiyuanwiki-releases/releases/download/v0.1.0/zhiyuan-0.1.0-windows-x86_64.zip"
+    }
+  },
+  "bin": "zhiyuan.exe",
+  "description": "查已授权的高考志愿数据：省份，以及分数和位次的互换",
+  "homepage": "https://zhiyuanwiki.com",
+  "notes": [
+    "然后 `export ZHIYUAN_LICENSE=\u003c授权码\u003e`。不要把授权码放在命令行上。第一次运行要能连上授权服务。把 `zhiyuan skill` 印出的文字存成 `~/.agents/skills/zhiyuan/SKILL.md`。"
+  ],
+  "version": "0.1.0"
+}
