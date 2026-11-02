@@ -1,8 +1,8 @@
 {
   "architecture": {
     "64bit": {
-      "hash": "6e70fcf8565806ece98acb01c90228a75d5157339b0009191d805e93bf2d9459",
-      "url": "https://github.com/sunfmin/zhiyuanwiki-releases/releases/download/v0.1.5/zhiyuan-0.1.5-windows-x86_64.zip"
+      "hash": "92451e409639f37e2d5bd046b945e5580c61b7b12d585c427331320433c76c5f",
+      "url": "https://github.com/sunfmin/zhiyuanwiki-releases/releases/download/v0.1.6/zhiyuan-0.1.6-windows-x86_64.zip"
     }
   },
   "bin": "zhiyuan.exe",
@@ -11,5 +11,5 @@
   "notes": [
     "然后跑 `zhiyuan buy` 买授权码，付完这台机器就能用。已经有授权码就跑 `zhiyuan unlock`。不要把授权码放在命令行上。第一次运行要能连上授权服务。把 `zhiyuan skill` 印出的文字存成 `~/.agents/skills/zhiyuan/SKILL.md`。"
   ],
-  "version": "0.1.5"
+  "version": "0.1.6"
 }
