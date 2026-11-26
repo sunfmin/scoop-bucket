@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "description": "Keeps an agent's secrets in a 1Password vault through a service account",
+    "homepage": "https://github.com/sunfmin/optokens",
+    "license": "Proprietary",
+    "depends": ["1password-cli"],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sunfmin/homebrew-tap/releases/download/optokens-v0.1.0/optokens-0.1.0-windows-x86_64.zip",
+            "hash": "2b49f22267c007565757c411f62fd863f2e65ce30d4473052ce93cbfe4ecac07"
+        }
+    },
+    "bin": "optokens.exe",
+    "notes": "optokens needs tailscale, on a tailnet, for put --fields and init: they serve their one-time link on the tailnet only."
+}
