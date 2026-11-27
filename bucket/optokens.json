@@ -1,13 +1,13 @@
 {
-    "version": "0.1.11",
+    "version": "0.1.12",
     "description": "Keeps an agent's secrets in a 1Password vault through a service account",
     "homepage": "https://github.com/sunfmin/optokens",
     "license": "Proprietary",
 
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sunfmin/homebrew-tap/releases/download/optokens-v0.1.11/optokens-0.1.11-windows-x86_64.zip",
-            "hash": "32235acf18b58d7502cbfbbf617c3d3e1687da7bbaaf3939170b32c0838800c0"
+            "url": "https://github.com/sunfmin/homebrew-tap/releases/download/optokens-v0.1.12/optokens-0.1.12-windows-x86_64.zip",
+            "hash": "72191a0c7949f389b63409edcc46b8a9387259988ee238d8d3b0574bf3ff09d3"
         }
     },
     "bin": "optokens.exe",
